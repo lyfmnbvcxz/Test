@@ -1,0 +1,11 @@
+D:\github\Test\Test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\github\Test\Test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\github\Test\Test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\github\Test\Test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\github\Test\Test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\github\Test\Test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\github\Test\Test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\github\Test\Test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\github\Test\Test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\github\Test\Test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\github\Test\Test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
